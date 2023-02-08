@@ -1,0 +1,3 @@
+# password_checker
+
+Ce programme python vérifie à travers l'API "Pwned Passwords", le nombre de fois où votre mot de passe à été sujet de violations...
